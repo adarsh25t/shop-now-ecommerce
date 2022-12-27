@@ -30,7 +30,7 @@ a {
   gap: 30px;
 }
 
-/* Header part */
+/*      Header part      */
 .header-top-strip {
   background-color: var(--color-131921);
   border-bottom: 1px solid var(--color-3b4149);
@@ -77,3 +77,27 @@ a {
 .header-bottom .dropdown .dropdown-menu .dropdown-item:hover{
   color: var(--color-febd69);
 }
+
+
+
+/*    end  Header part      */
+
+
+/*      Footer part      */
+footer {
+  background-color: var(--color-232f3e);
+}
+.footer-3 {
+  border-top: 1px solid var(--color-3b4149);
+}
+.footer-inputs {
+  background-color: var(--color-131921);
+  color: #fff;
+}
+.footer-signup-container img {
+  width: 25px;
+}
+.footer-signup-container h2{
+  font-size: 20px;
+}
+/*    end  Footer part      */
